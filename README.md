@@ -106,3 +106,4 @@ java -Djdk.gtk.version=2 -jar world-downloader.jar
   If you want to support this project, you can [donate through GitHub](https://github.com/sponsors/mircokroon?frequency=one-time&amount=5)
 </details>
 
+run
